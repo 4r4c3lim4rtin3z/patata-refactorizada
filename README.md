@@ -1,3 +1,3 @@
 # patata-refactorizada
 ## Editing the file
-## Es un archivo de prueba 
+ Es un archivo de prueba 
